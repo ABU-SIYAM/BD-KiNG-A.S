@@ -1,9 +1,10 @@
 # BD-KiNG-A.S
 A.SIYAM
+"Run This Comand"
 
 
 
-Run This Comand
+
 
 pkg update 
 
