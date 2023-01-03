@@ -1,6 +1,6 @@
-# BD-KiNG-A.S
-A.SIYAM
-"Run This Comand"
+# BD-KiNG-A.S [RUN THIS COMAND]
+
+
 
 
 
