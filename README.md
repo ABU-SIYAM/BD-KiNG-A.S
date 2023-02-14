@@ -20,6 +20,8 @@ pkg install python3
 
 pkg install wget
 
+pkg install git
+
 pip2 install request 
 
 pip2 install mechanize 
