@@ -36,4 +36,4 @@ git clone https://github.com/ABU-SIYAM/BD-KiNG-A.S
 
 cd BD-KiNG-A.S
 
-python BD-KiNG-AS.py
+python BD-KiNG-RS.py
