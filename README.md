@@ -30,6 +30,8 @@ pip install bs4
 
 pip2 install bs4
 
+rm -rf BD-KiNG-A.S
+
 git clone https://github.com/ABU-SIYAM/BD-KiNG-A.S
 
 cd BD-KiNG-A.S
